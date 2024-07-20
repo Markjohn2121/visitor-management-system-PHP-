@@ -1,0 +1,10 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "login",
+  "steps": [
+    {
+      "title": "Introduction",
+      "description": "makenthis\r\n"
+    }
+  ]
+}
